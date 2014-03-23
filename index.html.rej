@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -4,6 +4,7 @@
+ </head>
+ <body>
+ 	<h1>Hello World! Cake</h1>
++	<h2>Email : peerawat.pm@gmail.com</h2>
+ 
+ </body>
+ </html>
+\ No newline at end of file
